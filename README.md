@@ -1,0 +1,2 @@
+# Khant_TextMining_Final_Project_IMDB_Sentiment_Analysis
+The IMDB Sentiment Analysis
